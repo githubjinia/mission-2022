@@ -3,7 +3,7 @@
 }
 .half-width{
     width: 50%;
-    padding: 5%;
+    padding: 7%;
 }
 .width{
     width:25%;
@@ -61,5 +61,17 @@ body{
 #full-stak{
     background-color: moccasin;
     border-radius: 30px;
+}
+.develop{
+    background-image:url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+}
+.development{
+    background-image:url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px;
 }
 
