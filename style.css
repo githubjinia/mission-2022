@@ -1,0 +1,39 @@
+.flexible-container{
+    display: flex;
+    padding-bottom: 50%;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 55px;
+}
+.mission{
+    font-family: 'Yeseva One', cursive;
+}
+.color{
+    color:orange;
+}
+.size{
+    font-size: 30px;
+}
+.button{
+    background-color: tomato;
+    text-decoration: none;
+    padding: 10px 40px;
+    color:white;
+    font-weight: 900px;
+    border-radius: 5px;
+}
+.line{
+    border-left: 7px solid;
+    border-color: tomato;
+    border-image-slice: 1;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
