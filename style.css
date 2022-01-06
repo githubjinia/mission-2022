@@ -1,25 +1,36 @@
 .flexible-container{
     display: flex;
-    padding-bottom: 50%;
 }
 .half-width{
     width: 50%;
     padding: 5%;
 }
+.width{
+    width:25%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+}
 .half-width img{
     width: 100%;
 }
 h1{
-    font-size: 55px;
+    font-size: 50px;
 }
 .mission{
     font-family: 'Yeseva One', cursive;
+}
+body{
+    font-family: 'Poppins', sans-serif;
 }
 .color{
     color:orange;
 }
 .size{
     font-size: 30px;
+}
+.paragraph{
+    font-size: 20px;
 }
 .button{
     background-color: tomato;
@@ -35,5 +46,20 @@ h1{
     border-image-slice: 1;
     border-radius: 5px;
     padding-left: 10px;
+}
+.position{
+    text-align: center;
+}
+#web-dev{
+    background-color:rgb(181, 226, 241);
+    border-radius: 30px;
+}
+#front-end{
+    background-color:lightpink;
+    border-radius: 30px;
+}
+#full-stak{
+    background-color: moccasin;
+    border-radius: 30px;
 }
 
